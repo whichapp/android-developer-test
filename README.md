@@ -11,6 +11,8 @@ Android Developer Interview Test
 
 ### Footnote
 
+You are allowed to use extensions and frameworks.
+
 Do not ament data source files.
 
 Data source is not complete, missing data may caouse application to crash.
