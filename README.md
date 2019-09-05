@@ -6,8 +6,8 @@ Android Developer Interview Test
 - Present users.json in table view
 - Send User Id from table view to detailed view
 - Present user-details.json in detailed view
-- Create buttin in detaild view to send email to selected user using default email application
-- Final testing and debugging 
+- Create button in detaild view to send email to selected user using default email application
+- Final testing and debugging
 
 ### Footnote
 
