@@ -1,5 +1,6 @@
 Android Developer Interview Test
 ============================
+Created for [HICH](https://www.hichapp.com)
 
 ### Tasks
 
@@ -28,3 +29,4 @@ Adding extra effects to views, user friendly navigation and tasteful formatting 
 App will be tested on Nexus 7 and one of the recently released popular handset, please make sure it is compatibile. 
 
 If you create repository please make sure is not visible to other candidates.
+
