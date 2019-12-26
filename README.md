@@ -1,4 +1,4 @@
-Android Developer Interview Test
+HICH Android Developer Interview Test
 ============================
 Created for [HICH](https://www.hichapp.com)
 
